@@ -7,7 +7,7 @@ We create an EC2 Linux Instance, set up Docker on it and create an image. We cre
 
 Pythom, Git, Command-Line, AWS EC2, Docker, Apache Sqoop, Apache Hive, Apache Spark, Scala, MySQL
 
-## Places for improvement **:
+## Places for improvement:
 
 - Use Terraform to automate infrastructure creation
 - Prepare an Interactive Dashboard
