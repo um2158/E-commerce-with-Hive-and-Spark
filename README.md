@@ -5,10 +5,11 @@ We create an EC2 Linux Instance, set up Docker on it and create an image. We cre
 
 ## Tech Stack:
 
-Pythom, Git, Command-Line, AWS EC2, Docker, Apache Sqoop, Apache Hive, Apache Spark, Scala, MySQL
+Language: Scala, SQL
+Services: Git, AWS EC2, Docker, Apache Sqoop, Apache Hive, Apache Spark, 
 
-## Places for improvement:
+## Further tasks:
 
 - Use Terraform to automate infrastructure creation
 - Prepare an Interactive Dashboard
-- Use AirFlow to schedule and orchestrate
+- Use AirFlow or other orchestration services like Luigi, Dagster or Prefect to schedule and orchestrate
