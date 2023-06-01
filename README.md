@@ -11,3 +11,4 @@ Pythom, Git, Command-Line, AWS EC2, Docker, Apache Sqoop, Apache Hive, Apache Sp
 
 - Use Terraform to automate infrastructure creation
 - Prepare an Interactive Dashboard
+- Use AirFlow to schedule and orchestrate
